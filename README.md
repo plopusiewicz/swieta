@@ -1,2 +1,2 @@
 # swieta
-Repozytorium stworzone w celu nauczenia sie gita.
+Repozytorium stworzone na potrzeby nauki gita.
